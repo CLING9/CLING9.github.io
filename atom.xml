@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>泠 的博客</title>
+  
+  <subtitle>愿我们相聚时尽是美好</subtitle>
+  <link href="https://cling9.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://cling9.github.io/"/>
+  <updated>2025-12-16T07:48:31.994Z</updated>
+  <id>https://cling9.github.io/</id>
+  
+  <author>
+    <name>泠</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>合肥工业大学（合肥校区）校园网指南（未完待续）</title>
+    <link href="https://cling9.github.io/2023/12/13/HFUT_Net/"/>
+    <id>https://cling9.github.io/2023/12/13/HFUT_Net/</id>
+    <published>2023-12-13T10:01:33.000Z</published>
+    <updated>2025-12-16T07:48:31.994Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="校园网简介"><a href="#校园网简介" class="headerlink" title="校园网简介"></a>校园网简介</h1><p>校园网是指学院或大学校园内在各种建筑物之间互连的网络，属于园区网络中的一种。在本指南中， 其广义上可指代合肥工业大学校园中的所有网络的总和，包括但不限于接入校园的中国教育和科研计算机网（ CERNET）、教育无线漫游（EDUROAM）、中国移动（ CHINA MOBILE）、中国电信（ CHINA TELECOM）和校内局域网等。</p><p>而对于在校学生，我们常说的校园网一般指的是合工大官方的公用网络， 用户通过学生公寓有线（ 172.16.*）或校园无线（ HFUT-WIFI: 10.*; HFUT-EDU: 114.213.* ）接入校园局域网、中国教育和科研计算机网（ CERNET，连接到中国科学技术大学）出口、中国电信（ CHINA TELECOM）出口和中国移动（ CHINA MOBILE）出口等网络，除校内局域网和IPv6 网络以外，通常需要登录由 Drcom 提供的计费认证系统，才能连接到互联网。</p><p>其他的一些网络，如中国移动宽带、中国电信宽带和各大运营商的移动通信网络等，由于它们不是学校官方建设运营的网络， 所以一般不称之为校园网， 而以“ 运营商网络”代之。</p><h1 id="校园网套餐及资费"><a href="#校园网套餐及资费" class="headerlink" title="校园网套餐及资费"></a>校园网套餐及资费</h1><p>对于本科在校学生， 2023 年 5 月 25 日以后，校园网分为 4 种套餐：</p><table><thead><tr><th align="center">资费&#x2F;元</th><th align="center">速率&#x2F;Mbps（ MB&#x2F;S）</th><th align="center">在线终端数量&#x2F;台</th></tr></thead><tbody><tr><td align="center">0</td><td align="center">10（ 1.25）</td><td align="center">2</td></tr><tr><td align="center">10</td><td align="center">100（ 12.5）</td><td align="center">2</td></tr><tr><td align="center">20</td><td align="center">200（ 25）</td><td align="center">3</td></tr><tr><td align="center">40</td><td align="center">不限， 实际为 1000（ 125）</td><td align="center">3</td></tr></tbody></table><p>值得注意的是，原 15 元&#x2F;不限速&#x2F;2 台在线终端的套餐，在新规实施后并不受影响，依旧按照原来的资费进行缴纳。 这使得这个“绝版”套餐在新规下具有很高的性价比，已经开通此套餐的同学且用且珍惜。</p><h1 id="校园网速率相关"><a href="#校园网速率相关" class="headerlink" title="校园网速率相关"></a>校园网速率相关</h1><p>对于个人用户，校园网的速率主要由校园网接入点硬件、转发设备、用户终端设备以及具体环境决定。由于每个人的网络环境都有所不同，此处仅列出校园内常见网络环境下通过<strong>目前配置最好的终端设备直连</strong>校园网速率的最高理论值。</p><table><thead><tr><th align="center">套餐资费</th><th align="center">校区</th><th align="center">地点</th><th align="center">网络类型</th><th align="center">电信&#x2F;移动 IPv4 速率</th><th align="center">局域网、IPv6 和教育网 IPv4 速率</th></tr></thead><tbody><tr><td align="center">0</td><td align="center">屯溪路</td><td align="center">学生公寓</td><td align="center">无线</td><td align="center">10 Mbps（ 1.25 MB&#x2F;S）</td><td align="center">573 Mbps（ 71.6 MB&#x2F;S）</td></tr><tr><td align="center">0</td><td align="center">屯溪路</td><td align="center">教学楼</td><td align="center">无线</td><td align="center">10 Mbps（ 1.25 MB&#x2F;S）</td><td align="center">573 Mbps（ 71.6 MB&#x2F;S）</td></tr><tr><td align="center">0</td><td align="center">翡翠湖</td><td align="center">学生公寓</td><td align="center">有线</td><td align="center">10 Mbps（ 1.25 MB&#x2F;S）</td><td align="center">1000 Mbps（ 125 MB&#x2F;S）</td></tr><tr><td align="center">0</td><td align="center">翡翠湖</td><td align="center">教学楼</td><td align="center">无线</td><td align="center">10 Mbps（ 1.25 MB&#x2F;S）</td><td align="center">286 Mbps（ 35.8 MB&#x2F;S）</td></tr><tr><td align="center">10</td><td align="center">屯溪路</td><td align="center">学生公寓</td><td align="center">无线</td><td align="center">100 Mbps（ 12.5 MB&#x2F;S）</td><td align="center">573 Mbps（ 71.6 MB&#x2F;S）</td></tr><tr><td align="center">10</td><td align="center">屯溪路</td><td align="center">教学楼</td><td align="center">无线</td><td align="center">100 Mbps（ 12.5 MB&#x2F;S）</td><td align="center">573 Mbps（ 71.6 MB&#x2F;S）</td></tr><tr><td align="center">10</td><td align="center">翡翠湖</td><td align="center">学生公寓</td><td align="center">有线</td><td align="center">100 Mbps（ 12.5 MB&#x2F;S）</td><td align="center">1000 Mbps（ 125 MB&#x2F;S）</td></tr><tr><td align="center">10</td><td align="center">翡翠湖</td><td align="center">教学楼</td><td align="center">无线</td><td align="center">100 Mbps（ 12.5 MB&#x2F;S）</td><td align="center">286 Mbps（ 35.8 MB&#x2F;S）</td></tr><tr><td align="center">20</td><td align="center">屯溪路</td><td align="center">学生公寓</td><td align="center">无线</td><td align="center">200 Mbps（ 25 MB&#x2F;S）</td><td align="center">573 Mbps（ 71.6 MB&#x2F;S）</td></tr><tr><td align="center">20</td><td align="center">屯溪路</td><td align="center">教学楼</td><td align="center">无线</td><td align="center">200 Mbps（ 25 MB&#x2F;S）</td><td align="center">573 Mbps（ 71.6 MB&#x2F;S）</td></tr><tr><td align="center">20</td><td align="center">翡翠湖</td><td align="center">学生公寓</td><td align="center">有线</td><td align="center">200 Mbps（ 25 MB&#x2F;S）</td><td align="center">1000 Mbps（ 125 MB&#x2F;S）</td></tr><tr><td align="center">20</td><td align="center">翡翠湖</td><td align="center">教学楼</td><td align="center">无线</td><td align="center">200 Mbps（ 25 MB&#x2F;S）</td><td align="center">286 Mbps（ 35.8 MB&#x2F;S）</td></tr><tr><td align="center">40</td><td align="center">屯溪路</td><td align="center">学生公寓</td><td align="center">无线</td><td align="center">450 Mbps（ 56.3 MB&#x2F;S）</td><td align="center">573 Mbps（ 71.6 MB&#x2F;S）</td></tr><tr><td align="center">40</td><td align="center">屯溪路</td><td align="center">教学楼</td><td align="center">无线</td><td align="center">450 Mbps（ 56.3 MB&#x2F;S）</td><td align="center">573 Mbps（ 71.6 MB&#x2F;S）</td></tr><tr><td align="center">40</td><td align="center">翡翠湖</td><td align="center">学生公寓</td><td align="center">有线</td><td align="center">450 Mbps（ 56.3 MB&#x2F;S）</td><td align="center">1000 Mbps（ 125 MB&#x2F;S）</td></tr><tr><td align="center">40</td><td align="center">翡翠湖</td><td align="center">教学楼</td><td align="center">无线</td><td align="center">286 Mbps（ 35.8 MB&#x2F;S）</td><td align="center">286 Mbps（ 35.8 MB&#x2F;S）</td></tr></tbody></table>]]></content>
+    
+    
+    <summary type="html">校园网简介 校园网是指学院或大学校园内在各种建筑物之间互连的网络，属于园区网络中的一种。在本指南中， 其广义上可指代合肥工业大学校园中的所有网络的总和，包括但不限于接入校园的中国教育和科研计算机网（ CERNET）、教育无线漫游（EDUROAM）、中国移动（ CHINA MOBILE）、中国电信（ CHINA TELECOM）和校内局域网等。 而对于在校学生，我们常说的校园网一般指的是合工大官方的...</summary>
+    
+    
+    
+    
+    <category term="HFUT" scheme="https://cling9.github.io/%E6%A0%87%E7%AD%BE/HFUT/"/>
+    
+    <category term="校园网" scheme="https://cling9.github.io/%E6%A0%87%E7%AD%BE/%E6%A0%A1%E5%9B%AD%E7%BD%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【REC】OrangeFox for REDMI Note4X（mido）</title>
+    <link href="https://cling9.github.io/2022/11/17/REC_mido/"/>
+    <id>https://cling9.github.io/2022/11/17/REC_mido/</id>
+    <published>2022-11-17T09:46:00.000Z</published>
+    <updated>2025-12-16T07:49:35.454Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><a href="https://xy996.lanzoul.com/inFvj0g38rwh" title="OrangeFox-mido-stable@R11.1.zip">OrangeFox-mido-stable@R11.1.zip</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+    <category term="Recovery" scheme="https://cling9.github.io/%E6%A0%87%E7%AD%BE/Recovery/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>所以说</title>
+    <link href="https://cling9.github.io/2022/10/03/1704/"/>
+    <id>https://cling9.github.io/2022/10/03/1704/</id>
+    <published>2022-10-03T15:05:33.000Z</published>
+    <updated>2025-12-16T07:49:35.453Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h2 id="为什么搞个ci和坐牢一样难受-：-（"><a href="#为什么搞个ci和坐牢一样难受-：-（" class="headerlink" title="为什么搞个ci和坐牢一样难受  ：-（"></a>为什么搞个ci和坐牢一样难受  ：-（</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>这是一个测试站</title>
+    <link href="https://cling9.github.io/2022/10/02/page/"/>
+    <id>https://cling9.github.io/2022/10/02/page/</id>
+    <published>2022-10-02T15:05:33.000Z</published>
+    <updated>2025-12-16T07:49:35.454Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h3 id="所以时不时404也是很正常的事情（"><a href="#所以时不时404也是很正常的事情（" class="headerlink" title="所以时不时404也是很正常的事情（"></a>所以时不时404也是很正常的事情（</h3><p>编辑测试1</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
